@@ -36,4 +36,4 @@
 | 공정용, 최세연 | 조회수 |  |  |  |  |
 | 공정용, 최세연 | 추천수 |  |  |  |  |
 
-[https://youtu.be/O-CmTUCF9I4] 시연 
+[https://youtu.be/O-CmTUCF9I4] 시연 동영상
