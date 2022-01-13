@@ -35,7 +35,3 @@
 | 공정용 | 인기순 등 필터페이지 |  |  |  |  |
 | 공정용, 최세연 | 조회수 |  |  |  |  |
 | 공정용, 최세연 | 추천수 |  |  |  |  |
-
-## 4. public github repo 주소
-
-[https://github.com/John3210of/hanghae_D8](https://github.com/John3210of/hanghae_D8)
